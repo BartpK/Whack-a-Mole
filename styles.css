@@ -1,0 +1,49 @@
+table {
+    width: 100vw;
+    height: 50vh;
+}
+
+h1, h2, h3, p {
+    font-family: 'Merriweather Sans', sans-serif;
+    text-align: center;
+    width: 100%;
+}
+
+table {
+    margin: 0 auto;
+    text-align: center;
+    max-width: 500px;
+}
+
+body {
+    background: rgb(255,255,255);
+background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(228,228,228,1) 100%);
+}
+
+.score, .counter {
+    font-size: 20pt;
+    color: #34a8bf;
+}
+
+.counter2 {
+    color: #fe3f3f;
+    font-size: 20pt;
+    }
+
+button {
+    font-family: 'Merriweather Sans', sans-serif;
+    text-align: center;
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(254,63,63,1) 100%);
+    width: 60%;
+    margin: 0 auto;
+    display: block;
+    border: none;
+    color: white;
+    padding: 10px 0 10px 0;
+}
+
+img {
+    width: 100px;
+    border-radius: 50px;
+}
